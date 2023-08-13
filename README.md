@@ -1,5 +1,6 @@
 # Avalanche Project 3
-# Custom Token Smart Contract Deployment Guide
+
+## Custom Token Smart Contract Deployment Guide
 
 This  will walk through the process of creating a smart contract to deploy your own token using either HardHat or Remix. The contract will have the following functionality:
 
